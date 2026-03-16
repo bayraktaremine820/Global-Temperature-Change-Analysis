@@ -5,7 +5,7 @@ Project Group: Emine Bayraktar - Nehir Şirinoğlu - Konuralp Özcan
    
 Analysis of Global Temperature Change Using Data-Driven Methods
 
-3. Overview
+2. Overview
 
 Climate change has become one of the most pressing global challenges of the 21st century. Rising
 global temperatures have significant consequences for ecosystems, agriculture, water resources, and
